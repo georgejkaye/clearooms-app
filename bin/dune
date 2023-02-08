@@ -1,0 +1,4 @@
+(executable
+ (public_name clearooms_app)
+ (name main)
+ (libraries clearooms_app))
